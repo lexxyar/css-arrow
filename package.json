@@ -1,0 +1,27 @@
+{
+  "name": "logocss",
+  "version": "1.0.0",
+  "description": "Logo on pure CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aleksey Komov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-dest": "^0.2.3",
+    "gulp-minify": "^3.0.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^5.0.0-alpha.2"
+  },
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
